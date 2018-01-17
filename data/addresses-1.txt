@@ -1,0 +1,5 @@
+Name,Address,Phone Number
+Bob,289 Lexington Street,415-218-5520
+Mary,1012 Kentucky Street,530-114-4292
+Sue,1 Jersey Street,234-420-0982
+Joe,109 Idaho Avenue,585-433-3945
