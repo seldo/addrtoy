@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "csv-parse": "^2.0.0"
+    "csv-parse": "^2.0.0",
+    "express": "^4.16.2",
+    "nunjucks": "^3.0.1"
   },
   "devDependencies": {},
   "scripts": {
